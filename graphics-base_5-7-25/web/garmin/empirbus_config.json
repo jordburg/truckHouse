@@ -1,0 +1,10 @@
+{
+  "id": "6149d7bc-b506-404d-b98f-140703578044",
+  "path": "index.html",
+  "title": "EmpirBus Applications",
+  "icon": "/images/icon-default.png",
+  "devices": [
+    "MFD"
+  ],
+  "main": true
+}

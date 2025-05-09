@@ -1,0 +1,12 @@
+{
+  "short_name": "EmpirBus Applications",
+  "name": "EmpirBus Applications",
+  "icons": [
+    {
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

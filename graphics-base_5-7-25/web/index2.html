@@ -1,0 +1,69 @@
+﻿
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<script src="logger.js"></script>
+		<script id="application-settings" type="application/json">{"index":2,"type":0}</script>
+		<script id="mfd-channel-subscription" type="application/json">{"messagetype":96,"messagecmd":0,"size":2,"data":[0,0]}</script>
+		<script id="n2k-dataItem-subscription" type="application/json">{"messagetype":96,"messagecmd":1,"size":2,"data":[0,0]}</script>
+		<link rel="stylesheet" href="css/custom-style-2-12ce0901-fc8c-4994-bce8-ad152af48322.css">
+		<link rel="manifest" href="manifest2.json">
+	</head>
+	<body ondragstart="return!1" ondrop="return!1" style="background-color:#000">
+		<div class="test-warning-message hidden" id="test-warning-message"></div>
+		<div class="checksum-warning-message" id="checksum-warning-message">Warning! Version mismatch between graphical interface and system configuration.</div>
+		<div id="overlay-white-page-blocker" style="position:fixed;background-color:#000;width:100%;height:100%"></div>
+		<div class="overlay overlay-start">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="checksum-warning hidden">Warning! Version mismatch between graphical interface and system configuration.
+			</div>
+		</div>
+		<div class="overlay overlay-bus-error hidden">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="overlay-text">No connection to digital switching.</div>
+		</div>
+		<div class="overlay overlay-websocket-error hidden">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="overlay-text">No connection to web server.</div>
+		</div>
+		<div class="overlay overlay-reload hidden">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="overlay-text">Please wait while the application is being restarted.</div>
+		</div>
+		<div class="app-selector-link-timer-dialog hidden">
+			<div>
+				<button class="app-selector-link-timer-dialog-button app-selector-link-timer-dialog-button-navigate">Navigate</button>
+				<button class="app-selector-link-timer-dialog-button app-selector-link-timer-dialog-button-cancel">Cancel</button>
+			</div>
+		</div>
+		<div class="external-page">
+			<div class="external-page-navigation">
+				<button class="external-page-navigation-back">Back</button>
+			</div>
+			<div class="external-page-status">
+				<div class="external-page-status-text"></div>
+			</div>
+			<iframe class="external-page-iframe" style="height:100%;width:98%"></iframe>
+		</div>
+		<div class="app-selector-link-timer">
+			<svg class="viewbox" viewBox="0 0 200 200">
+				<circle class="app-selector-link-timer-progress-bar" cx="100" cy="100" r="47" transform="rotate(-90 100 100)" pointer-events="all" stroke="#888" stroke-width="24" fill="none"></circle>
+			</svg>
+		</div>
+		<script src="index.142f8661a016a4df4581.js"></script>
+		<div id="pc-3720d2d0-2b88-11f0-9c64-c5b5bfe806e3" class="page-collection" data-page-collection-id="0" data-aspect-ratio="1.7777777777777777777777777778" data-screen-saver-page-id="">
+			<div class="page hidden" id="p-3720d2d1-2b88-11f0-9c64-c5b5bfe806e3">
+				<div class="layer" id="l-3720d2d3-2b88-11f0-9c64-c5b5bfe806e3" data-show-initially="true"></div>
+			</div>
+		</div>
+	</body>
+</html>

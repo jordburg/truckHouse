@@ -1,0 +1,236 @@
+/* global.css */
+
+/* 0. Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&family=Work+Sans:wght@400&display=swap');
+
+/* 1. Color variables */
+:root {
+  --color-primary-white: #FAF7F5;
+  --color-primary-black: #171717;
+  --color-inactive-grey: #D6D6D6;
+  --color-accent-grey: #636362;
+  --color-warning-red: #E43535;
+}
+
+/* 2. Reset & base */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 100%; /* 16px */
+  line-height: 1.5;
+}
+
+body {
+  background-color: var(--color-primary-white);
+  color: var(--color-primary-black);
+  font-family: 'Work Sans', sans-serif;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.02em; /* 2% */
+  opacity: 0.33; /* 33% opacity for body text */
+}
+
+/* 3. Headings */
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300; /* Light */
+  font-size: 78px;
+  color: var(--color-primary-white);
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 52px;
+  color: var(--color-primary-white);
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: 40px;
+  color: var(--color-primary-white);
+}
+
+h4 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400; /* Regular */
+  font-size: 12px;
+  color: var(--color-primary-white);
+  opacity: 0.66; /* 66% */
+}
+
+h5 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  color: var(--color-primary-white);
+}
+
+h6 {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  color: #585858;
+}
+
+/* 4. Utility class for "h7" styling if you need it */
+.text--tiny-uppercase {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  font-size: 8px;
+  color: var(--color-primary-white);
+  text-transform: uppercase;
+}
+
+/* 5. Body copy (paragraphs, spans, etc.) */
+p, span, li, a {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.02em;
+  color: var(--color-primary-white);
+  opacity: 0.33;
+}
+
+/* Button state variables */
+:root {
+    --Press: #D6D6D6;
+    --Outline: #171717;
+  }
+  
+  /* Round Button */
+/* Round Button */
+.btn-round {
+  width: 64px;
+  height: 64px;
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 50%; /* This makes it a perfect circle */
+}
+.btn-round--inactive {
+  fill: var(--color-primary-black); /* #171717 */
+  background-color: var(--color-inactive-grey);
+}
+.btn-round--active {
+  fill: var(--color-primary-white); /* #FAF7F5 */
+  background-color: var(--color-primary-white);
+}
+.btn-round--pressed {
+  fill: var(--Press); /* #D6D6D6 */
+  stroke-width: 1px;
+  stroke: var(--Outline); /* #171717 */
+  box-shadow: 0px 2px 5px 0px rgba(23,23,23,0.80) inset;
+  background-color: var(--Press);
+}
+  
+  /* Long Pill Button */
+  .btn-pill--long {
+    width: 80px;
+    height: 239px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .btn-pill--long--inactive {
+    background: var(--color-inactive-grey);
+  }
+  .btn-pill--long--active {
+    background: var(--color-primary-white); /* #FAF7F5 */
+  }
+  .btn-pill--long--pressed {
+    border: 1px solid var(--Outline); /* #171717 */
+    background: var(--Press); /* #D6D6D6 */
+  }
+  
+  /* Medium Pill Button */
+  .btn-pill--medium {
+    width: 80px;
+    height: 167px;
+    flex-shrink: 0;
+    border-radius: 50px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .btn-pill--medium--inactive {
+    background: var(--color-inactive-grey);
+  }
+  .btn-pill--medium--active {
+    background: var(--color-primary-white); /* #FAF7F5 */
+  }
+  .btn-pill--medium--pressed {
+    border: 1px solid var(--Outline); /* #171717 */
+    background: var(--Press); /* #D6D6D6 */
+  }
+  
+  /* Small Pill Button */
+  .btn-pill--small {
+    width: 80px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 34px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+  }
+  .btn-pill--small--inactive {
+    background: var(--color-inactive-grey);
+  }
+  .btn-pill--small--active {
+    background: var(--color-primary-white); /* #FAF7F5 */
+  }
+  .btn-pill--small--pressed {
+    border: 1px solid var(--Outline); /* #171717 */
+    background: var(--Press); /* #D6D6D6 */
+  }
+
+  /* Fix for the button pressed state for small buttons */
+  .btn-pill--small.btn-pill--small--pressed {
+    width: 80px;
+    height: 40px;
+    border-radius: 34px;
+  }
+
+  /* Pulse Button Styles */
+.pulse-btn {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 24px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+  outline: none;
+  user-select: none;
+}
+
+.pulse-btn:hover {
+  background-color: #3a3a3a;
+}
+
+.pulse-btn.active {
+  background-color: #4caf50;
+  transform: scale(0.98);
+}
+
+.pulse-btn.active {
+  background-color: #4caf50;
+  color: white;
+}

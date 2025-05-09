@@ -1,0 +1,11 @@
+{
+  "id": "ea171390-4c45-11ef-9150-b7a8455366c8",
+  "path": "index1.html",
+  "title": "TruckHouse",
+  "icon": "/images/00750e63-c963-4957-9e80-0190f576797c-0.png",
+  "devices": [
+    "MFD",
+    "APP"
+  ],
+  "main": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": "3720abc0-2b88-11f0-9c64-c5b5bfe806e3",
+  "path": "index2.html",
+  "title": "Truckhouse v2",
+  "icon": "/images/icon-default.png",
+  "devices": [
+    "APP"
+  ],
+  "main": false
+}

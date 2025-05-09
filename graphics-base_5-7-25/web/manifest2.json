@@ -1,0 +1,12 @@
+{
+  "short_name": "Truckhouse v2",
+  "name": "Truckhouse v2",
+  "icons": [
+    {
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index2.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}

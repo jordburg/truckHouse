@@ -1,0 +1,15 @@
+{
+  "projectTitle": "TruckHouse_Graphics_1-15-25_v2",
+  "netlistChecksum": "700103246",
+  "empirBusStudioConfigFileId": "54bcee64-a240-4114-a04b-01946bafc214",
+  "empirBusStudioConfigFileVersion": "2",
+  "projectFileId": "8745d8a3-40f8-444f-b818-01946bbfeb56",
+  "projectFileVersion": "4",
+  "exportGuid": "93c23069-410a-4ba0-8ce4-0196ac99ef03",
+  "wduWebVersion": "3.3.0",
+  "graphicsToolVersion": "1.64.1+c2ce36faa41400c7a9dfdb3a7f6dc2328d9c1991",
+  "buildEnvironment": "Production",
+  "targetConfiguration": "production",
+  "targetPlatform": "WDU",
+  "targetPlatformVersion": "3.0.0"
+}

@@ -1,0 +1,1145 @@
+[
+  {
+    "signalId": 90,
+    "description": "Channel 90",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 91,
+    "description": "Channel 91",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 92,
+    "description": "Channel 92",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 122,
+    "description": "Circuit Blown",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 2,
+    "description": "Int Lts: Zone 1 Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 1,
+    "description": "Channel 1",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 3,
+    "description": "Int Lts: Zone 2 Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 4,
+    "description": "Int Lts: Zone 3 Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 5,
+    "description": "Int Lts: Zone 4 Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 6,
+    "description": "Int Lts: Rear Dinette Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 7,
+    "description": "Int Lts: Galley Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 11,
+    "description": "Ext Lts: P/S Dimmer",
+    "type": 0,
+    "channelType": 3,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 95,
+    "description": "Ext Lts D/S: On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 96,
+    "description": "Ext Lts P/S: On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 97,
+    "description": "Ext Lts D/S: Dimmer",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 98,
+    "description": "Ext Lts P/S: Dimmer",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 99,
+    "description": "All Lights Off",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 9,
+    "description": "Ext lts: All Lts",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 100,
+    "description": "Reading Light Switch",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 125,
+    "description": "Living On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 126,
+    "description": "Bunk On off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 108,
+    "description": "Galley On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 127,
+    "description": "Bath On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 128,
+    "description": "UpCab On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 129,
+    "description": "Toe Kick On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 130,
+    "description": "Awning On/off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 137,
+    "description": "GearBox Light",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 93,
+    "description": "All Int Lts On/Off Togle",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 17,
+    "description": "Fresh Water Pump: On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 18,
+    "description": "Starlinnk: On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 19,
+    "description": "Sink Sump Pump Switch",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 22,
+    "description": "H2O Heat Tape Switch",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 23,
+    "description": "8-40VDC to 5VDC converter (USB) Switch",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 47,
+    "description": "Grey Water Tank Drain: On/Off Switch",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 36,
+    "description": "Floor On/Off",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 123,
+    "description": "Stereo On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 32,
+    "description": "Fan Speed Increase",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 33,
+    "description": "Fan Speed Decrease",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 34,
+    "description": "Fan Speed",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 14,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 35,
+    "description": "Fan On/Off",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 29,
+    "description": "Heat Source: Furnace",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 30,
+    "description": "Heat Source: Electric",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 14,
+    "description": "Hot Water Tank Heater: On/Off",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 25,
+    "description": "Increase Set Temp",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 26,
+    "description": "Decrease Set Temp",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 27,
+    "description": "Temp Set",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 24,
+    "description": "Int Temp Sensor Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 22,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 191,
+    "description": "Fan 2: Increase",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 143,
+    "description": "Fan 2: Decrease",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 144,
+    "description": "Fan 2: Speed Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 14,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 160,
+    "description": "Fan 2: Off/On",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 155,
+    "description": "Fan 2: Exhaust",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 156,
+    "description": "Fan 2: Intake",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 192,
+    "description": "Fan 1: Increase",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 157,
+    "description": "Fan 1: Decrease",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 158,
+    "description": "Fan 1: Fan Speed Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 14,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 161,
+    "description": "Fan 1: Off/On",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 162,
+    "description": "Fan 1: Exhaust",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 163,
+    "description": "Fan 1: Intake",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 118,
+    "description": "Fan Light Switch On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 48,
+    "description": "Channel 48",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 22,
+    "dataType": 1,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 49,
+    "description": "Inclinometer Y-Axis Signal Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 20,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 50,
+    "description": "Inclinometer X-Axis Signal Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 20,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 8,
+    "description": "Fresh Water Tank Signal Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 14,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 12,
+    "description": "Grey Water Tank Signal Value",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 14,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 45,
+    "description": "Awning Extend",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 46,
+    "description": "Awning Retract",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 107,
+    "description": "Awning Stop",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 51,
+    "description": "Victron: AC Input Limit Increase",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 52,
+    "description": "Victron: AC Input Limit Decrease",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 56,
+    "description": "Victron: AC Limit",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 57,
+    "description": "Victron: Inv/Cha On/Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 1
+  },
+  {
+    "signalId": 58,
+    "description": "Victron: Charger Only",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 1
+  },
+  {
+    "signalId": 59,
+    "description": "Victron: Not Charging",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 60,
+    "description": "Victron: Bulk",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 61,
+    "description": "Victron: Absorption",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 62,
+    "description": "Victron: Float",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 63,
+    "description": "Victron: Charge Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 64,
+    "description": "Victron: Charge Amperage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 65,
+    "description": "Victron: Invert",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 66,
+    "description": "Victron: AC Passthrough",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 67,
+    "description": "Victron: Inverter Off",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 68,
+    "description": "Victron: Requested Shore Breaker Size",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 4,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 75,
+    "description": "Victron: Solar Bulk",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 81,
+    "description": "Orion: Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 82,
+    "description": "Orion: Bulk",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 83,
+    "description": "Orion: Amperage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 87,
+    "description": "Solar Watts MPPT 100/20",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 119,
+    "description": "WakeSpeed: Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 120,
+    "description": "Wakespeed: Bulk",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 121,
+    "description": "Wakespeed: Amperage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 131,
+    "description": "Channel 131",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 132,
+    "description": "Channel 132",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 133,
+    "description": "Channel 133",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 134,
+    "description": "Channel 134",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 135,
+    "description": "Channel 135",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 136,
+    "description": "Channel 136",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 69,
+    "description": "Victron: Battery Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 71,
+    "description": "Victron: Battery Temperarture",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 22,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 72,
+    "description": "Victron: State of Charge",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 14,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 73,
+    "description": "VIctron: Time Remaining",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 23,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 147,
+    "description": "Multi DC V",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 148,
+    "description": "Multi DC A",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 89,
+    "description": "AC Out Pre",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 80,
+    "description": "DC Out Pre",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 145,
+    "description": "Channel 145",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 149,
+    "description": "Channel 149",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 1,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 150,
+    "description": "Roof Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 154,
+    "description": "Channel 154",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 151,
+    "description": "Roof Amperage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 152,
+    "description": "Aux Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 210,
+    "description": "Channel 210",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 153,
+    "description": "Aux Amperage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 15,
+    "description": "Victron: Leg 1 in AC Current",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 20,
+    "description": "Victron: Leg 1 In AC Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 54,
+    "description": "Victron: Leg 1 AC Out Voltage",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 27,
+    "dataType": 2,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 140,
+    "description": "Victron: Charging",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 88,
+    "description": "Victron DC Loads",
+    "type": 0,
+    "channelType": 5,
+    "dataItemFormatType": 6,
+    "dataType": 3,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 109,
+    "description": "New Source",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 110,
+    "description": "Prev Source",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 111,
+    "description": "Volume Up",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 112,
+    "description": "Volume Down",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 113,
+    "description": "Forward/Skip",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 114,
+    "description": "Reverse/Back",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 116,
+    "description": "Play/Pause",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 117,
+    "description": "Power On",
+    "type": 0,
+    "channelType": 0,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  },
+  {
+    "signalId": 115,
+    "description": "Mute",
+    "type": 0,
+    "channelType": 1,
+    "dataItemFormatType": 0,
+    "dataType": 0,
+    "channelSettingType": 0
+  }
+]

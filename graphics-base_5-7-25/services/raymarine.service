@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE service-group SYSTEM "avahi-service.dtd">
+<service-group>
+  <name replace-wildcards="yes">EmpirBus Applications</name>
+  <service protocol="ipv4">
+    <type>_http._tcp</type>
+    <port>80</port>
+    <txt-record>Empirbus=true</txt-record>
+    <txt-record>Name=Empirbus</txt-record>
+    <txt-record>UrlPath=index.html</txt-record>
+    <txt-record>IconFolderPath=/images/raymarine/</txt-record>
+    <txt-record>Auth=29b648c58b9c6a6d65f8973e477d5800b51c842bd25fb2e21a9fa432f655294c</txt-record>
+  </service>
+</service-group>

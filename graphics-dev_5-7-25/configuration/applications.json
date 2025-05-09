@@ -1,0 +1,245 @@
+{
+  "applications": [
+    {
+      "identifier": "6149d7bc-b506-404d-b98f-140703578044",
+      "garminGuid": "6149d7bc-b506-404d-b98f-140703578044",
+      "displayName": [
+        {
+          "symbol": "default",
+          "description": "EmpirBus Applications"
+        }
+      ],
+      "service": [
+        {
+          "type": "_garmin-empirbus._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config.json"
+          ]
+        },
+        {
+          "type": "_garmin-empirbus-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config.json"
+          ]
+        },
+        {
+          "type": "_http._tcp",
+          "port": "80",
+          "txt": [
+            "Empirbus=true",
+            "Name=Empirbus",
+            "UrlPath=index.html",
+            "IconFolderPath=/images/raymarine/",
+            "Auth=29b648c58b9c6a6d65f8973e477d5800b51c842bd25fb2e21a9fa432f655294c"
+          ]
+        }
+      ],
+      "path": "index.html",
+      "icon": [
+        {
+          "symbol": "default",
+          "description": "/images/icon-default.png"
+        }
+      ],
+      "showInApplicationSelector": false,
+      "devices": [
+        "MFD"
+      ],
+      "mainApplication": true
+    },
+    {
+      "identifier": "ea171390-4c45-11ef-9150-b7a8455366c8",
+      "garminGuid": "aae7553d-0a69-4f08-97f0-f2488513f478",
+      "displayName": [
+        {
+          "symbol": "default",
+          "description": "TruckHouse"
+        }
+      ],
+      "service": [
+        {
+          "type": "_garmin-empirbus._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config1.json"
+          ]
+        },
+        {
+          "type": "_garmin-empirbus-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config1.json"
+          ]
+        },
+        {
+          "type": "_garmin-mrn-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/config1.json"
+          ]
+        }
+      ],
+      "path": "index1.html",
+      "icon": [
+        {
+          "symbol": "default",
+          "description": "/images/00750e63-c963-4957-9e80-0190f576797c-0.png"
+        }
+      ],
+      "showInApplicationSelector": true,
+      "devices": [
+        "MFD",
+        "APP"
+      ],
+      "mainApplication": false
+    },
+    {
+      "identifier": "3720abc0-2b88-11f0-9c64-c5b5bfe806e3",
+      "garminGuid": "81a3cd23-cd20-4e28-8122-e1472e1588e4",
+      "displayName": [
+        {
+          "symbol": "default",
+          "description": "Truckhouse v2"
+        }
+      ],
+      "service": [
+        {
+          "type": "_garmin-empirbus._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config2.json"
+          ]
+        },
+        {
+          "type": "_garmin-empirbus-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config2.json"
+          ]
+        },
+        {
+          "type": "_garmin-mrn-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/config2.json"
+          ]
+        }
+      ],
+      "path": "index2.html",
+      "icon": [
+        {
+          "symbol": "default",
+          "description": "/images/icon-default.png"
+        }
+      ],
+      "showInApplicationSelector": true,
+      "devices": [
+        "APP"
+      ],
+      "mainApplication": false
+    },
+    {
+      "identifier": "49c956d6-ed5e-4451-beb9-0f55e3ef22cb",
+      "garminGuid": "49c956d6-ed5e-4451-beb9-0f55e3ef22cb",
+      "displayName": [
+        {
+          "symbol": "default",
+          "description": " EmpirBus Settings"
+        },
+        {
+          "symbol": "en-US",
+          "description": " EmpirBus Settings"
+        },
+        {
+          "symbol": "da-DK",
+          "description": " EmpirBus Indstillinger"
+        },
+        {
+          "symbol": "nl-NL",
+          "description": " EmpirBus Instellingen"
+        },
+        {
+          "symbol": "fi-FI",
+          "description": " EmpirBus Asetukset"
+        },
+        {
+          "symbol": "fr-Fr",
+          "description": " EmpirBus Paramètres"
+        },
+        {
+          "symbol": "de-DE",
+          "description": " EmpirBus Einstellungen"
+        },
+        {
+          "symbol": "it-IT",
+          "description": " EmpirBus Impostazioni"
+        },
+        {
+          "symbol": "nn-NO",
+          "description": " EmpirBus Innstillinger"
+        },
+        {
+          "symbol": "pt-BR",
+          "description": " EmpirBus Definições"
+        },
+        {
+          "symbol": "es-ES",
+          "description": " EmpirBus Configuración"
+        },
+        {
+          "symbol": "sv-SE",
+          "description": " EmpirBus Inställningar"
+        }
+      ],
+      "service": [
+        {
+          "type": "_garmin-empirbus._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config3.json"
+          ]
+        },
+        {
+          "type": "_garmin-empirbus-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/empirbus_config3.json"
+          ]
+        },
+        {
+          "type": "_garmin-mrn-html._tcp",
+          "port": "80",
+          "txt": [
+            "protovers=1",
+            "path=/garmin/config3.json"
+          ]
+        }
+      ],
+      "path": "settings-web/#",
+      "icon": [
+        {
+          "symbol": "default",
+          "description": "/images/icon-settings.png"
+        }
+      ],
+      "showInApplicationSelector": true,
+      "devices": [
+        "MFD",
+        "APP"
+      ],
+      "mainApplication": false
+    }
+  ]
+}

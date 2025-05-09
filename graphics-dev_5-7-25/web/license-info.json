@@ -1,0 +1,87 @@
+[
+  {
+    "packageName": "Garmin Sweden Technologies AB",
+    "licenseType": "Proprietary",
+    "licenseText": "This system includes graphics files from Garmin Sweden Technologies that are the property of Garmin Sweden Technologies, its affiliates or licensors. You may only use such graphics files solely in connection with EmpirBus products"
+  },
+  {
+    "packageName": "Open Sans font (https://fonts.google.com/specimen/Open+Sans)",
+    "licenseType": "APACHE LICENSE, VERSION 2.0",
+    "licenseText": "This product may  include this font distributed under the Apache license (http://www.apache.org/licenses/LICENSE-2.0)"
+  },
+  {
+    "packageName": "Roboto font (https://fonts.google.com/specimen/Roboto)",
+    "licenseType": "APACHE LICENSE, VERSION 2.0",
+    "licenseText": "This product may include this font distributed under the Apache license (http://www.apache.org/licenses/LICENSE-2.0)"
+  },
+  {
+    "packageName": "Roboto Condensed font (https://fonts.google.com/specimen/Roboto+Condensed)",
+    "licenseType": "APACHE LICENSE, VERSION 2.0",
+    "licenseText": "This product may  include this font distributed under the Apache license (http://www.apache.org/licenses/LICENSE-2.0)"
+  },
+  {
+    "packageName": "Titillium Web font (https://fonts.google.com/specimen/Titillium+Web)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Exo font (https://fonts.google.com/specimen/Exo)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Audiowide font (https://fonts.google.com/specimen/Audiowide)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Racing Sans One font (https://fonts.google.com/specimen/Racing+Sans+One)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Squada One font (https://fonts.google.com/specimen/Squada+One)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Cabin font (https://fonts.google.com/specimen/Squada+One)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Yrsa font (https://fonts.google.com/specimen/Yrsa)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Cute font (https://fonts.google.com/specimen/Yrsa)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Rubik font (https://fonts.google.com/specimen/Rubik)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Jura font (https://fonts.google.com/specimen/Jura)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Heebo font (https://fonts.google.com/specimen/Heebo)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Montserrat (https://fonts.google.com/specimen/Montserrat)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  },
+  {
+    "packageName": "Inter (https://fonts.google.com/specimen/Inter)",
+    "licenseType": "Open Font License (OFL)",
+    "licenseText": "This product may include this font distributed under the Open Font license (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)"
+  }
+]

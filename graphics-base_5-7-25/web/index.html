@@ -1,0 +1,57 @@
+﻿
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<script src="logger.js"></script>
+		<script id="application-settings" type="application/json"> { 
+      "index": 0,
+      "type": 0 
+    } 
+		</script>
+		<style>.app-selector-link-timer{display:none}</style>
+		<link rel="manifest" href="manifest.json">
+	</head>
+	<body ondragstart="return!1" ondrop="return!1" style="background-color:#000">
+		<div class="test-warning-message hidden" id="test-warning-message"></div>
+		<div class="checksum-warning-message hidden" id="checksum-warning-message">Warning! Version mismatch between graphical interface and system configuration.</div>
+		<div class="application-selector hidden">
+			<div class="application-selector-top">
+				<div class="application-selector-top-title">EmpirBus Applications
+					<div class="application-selector-top-edit-mode-text">Edit mode - Select starter apps</div>
+				</div>
+				<div class="application-selector-edit-button"></div>
+				<div class="application-list-save-button">
+					<div class="application-list-save-button-text">Save</div>
+				</div>
+			</div>
+			<div class="application-list">
+			</div>
+		</div>
+		<div class="edit-mode-border"></div>
+		<div class="overlay overlay-bus-error hidden">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="overlay-text">No connection to digital switching.</div>
+		</div>
+		<div class="overlay overlay-websocket-error hidden">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="overlay-text">No connection to web server.</div>
+		</div>
+		<div class="overlay overlay-reload hidden">
+			<div class="animated-loader-outer">
+				<div class="animated-loader"></div>
+			</div>
+			<div class="overlay-text">Please wait while the application is being restarted.</div>
+		</div>
+		<div class="app-selector-link-timer">
+			<svg class="viewbox" viewBox="0 0 200 200">
+				<circle class="app-selector-link-timer-progress-bar" cx="100" cy="100" r="47" transform="rotate(-90 100 100)" pointer-events="all" stroke="#888" stroke-width="24" fill="none"></circle>
+			</svg>
+		</div>
+		<script src="appselector.fd76c217ea874370cc18.js"></script>
+	</body>
+</html>

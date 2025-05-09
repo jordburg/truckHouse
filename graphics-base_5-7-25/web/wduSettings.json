@@ -1,0 +1,432 @@
+{
+  "Settings": [
+    {
+      "title": "Language",
+      "currentSetting": {
+        "symbol": "en-US",
+        "description": "ENGLISH (US)"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "ar-AE",
+          "description": "ARABIC"
+        },
+        {
+          "symbol": "pt-BR",
+          "description": "BRAZILIAN"
+        },
+        {
+          "symbol": "bg-BG",
+          "description": "BULGARIAN"
+        },
+        {
+          "symbol": "hr-HR",
+          "description": "CROATIAN"
+        },
+        {
+          "symbol": "cs-CZ",
+          "description": "CZECH"
+        },
+        {
+          "symbol": "da-DK",
+          "description": "DANISH"
+        },
+        {
+          "symbol": "nl-NL",
+          "description": "DUTCH"
+        },
+        {
+          "symbol": "en-US",
+          "description": "ENGLISH (US)"
+        },
+        {
+          "symbol": "et-EE",
+          "description": "ESTONIAN"
+        },
+        {
+          "symbol": "fa-IR",
+          "description": "FARSI"
+        },
+        {
+          "symbol": "fi-FI",
+          "description": "FINNISH"
+        },
+        {
+          "symbol": "fr-FR",
+          "description": "FRENCH"
+        },
+        {
+          "symbol": "de-DE",
+          "description": "GERMAN"
+        },
+        {
+          "symbol": "el-GR",
+          "description": "GREEK"
+        },
+        {
+          "symbol": "it-IT",
+          "description": "ITALIAN"
+        },
+        {
+          "symbol": "lv-LV",
+          "description": "LATVIAN"
+        },
+        {
+          "symbol": "lt-LT",
+          "description": "LITHUANIAN"
+        },
+        {
+          "symbol": "ja-JP",
+          "description": "JAPANESE"
+        },
+        {
+          "symbol": "ko-KR",
+          "description": "KOREAN"
+        },
+        {
+          "symbol": "nn-NO",
+          "description": "NORWEGIAN"
+        },
+        {
+          "symbol": "pl-PL",
+          "description": "POLISH"
+        },
+        {
+          "symbol": "pt-PT",
+          "description": "PORTUGUESE"
+        },
+        {
+          "symbol": "ru-RU",
+          "description": "RUSSIAN"
+        },
+        {
+          "symbol": "zh-CN",
+          "description": "SIMPLIFIED CHINESE"
+        },
+        {
+          "symbol": "sk-SK",
+          "description": "SLOVAKIAN"
+        },
+        {
+          "symbol": "sl-SI",
+          "description": "SLOVENIAN"
+        },
+        {
+          "symbol": "es-ES",
+          "description": "SPANISH"
+        },
+        {
+          "symbol": "sv-SE",
+          "description": "SWEDISH"
+        },
+        {
+          "symbol": "th-TH",
+          "description": "THAI"
+        },
+        {
+          "symbol": "zh-TW",
+          "description": "TRADITIONAL CHINESE"
+        },
+        {
+          "symbol": "tr-TR",
+          "description": "TURKISH"
+        }
+      ]
+    },
+    {
+      "title": "Depth",
+      "currentSetting": {
+        "symbol": "m",
+        "description": "Meters"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "m",
+          "description": "Meters"
+        },
+        {
+          "symbol": "ft",
+          "description": "Feet"
+        }
+      ]
+    },
+    {
+      "title": "DistanceUnit",
+      "currentSetting": {
+        "symbol": "km",
+        "description": "Kilometers"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "mi",
+          "description": "Miles"
+        },
+        {
+          "symbol": "km",
+          "description": "Kilometers"
+        },
+        {
+          "symbol": "nm, ft",
+          "description": "Nautical miles"
+        },
+        {
+          "symbol": "nm, m",
+          "description": "Nautical miles"
+        }
+      ]
+    },
+    {
+      "title": "FuelEconomyUnit",
+      "currentSetting": {
+        "symbol": "km/L",
+        "description": "Kilometers Per Litre"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "mpg-US",
+          "description": "Miles Per Gallon US"
+        },
+        {
+          "symbol": "mpg-UK",
+          "description": "Miles Per Gallon UK"
+        },
+        {
+          "symbol": "nm/gal-US",
+          "description": "Nautical Miles Per Gallon US"
+        },
+        {
+          "symbol": "nm/gal-UK",
+          "description": "Nautical Miles Per Gallon UK"
+        },
+        {
+          "symbol": "km/gal-US",
+          "description": "Kilometers Per Gallon US"
+        },
+        {
+          "symbol": "km/gal-UK",
+          "description": "Kilometers Per Gallon UK"
+        },
+        {
+          "symbol": "m/m3",
+          "description": "Meters per cubic meters"
+        },
+        {
+          "symbol": "km/L",
+          "description": "Kilometers Per Litre"
+        },
+        {
+          "symbol": "mi/L",
+          "description": "Miles Per Litre"
+        },
+        {
+          "symbol": "nm/L",
+          "description": "Nautical Miles Per Litre"
+        },
+        {
+          "symbol": "L/nm",
+          "description": "Litres Per Nautical Mile"
+        },
+        {
+          "symbol": "L/km",
+          "description": "Litres Per Kilometer"
+        },
+        {
+          "symbol": "L/mi",
+          "description": "Litres Per Mile"
+        }
+      ]
+    },
+    {
+      "title": "Height",
+      "currentSetting": {
+        "symbol": "m",
+        "description": "Meters"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "m",
+          "description": "Meters"
+        },
+        {
+          "symbol": "ft",
+          "description": "Feet"
+        }
+      ]
+    },
+    {
+      "title": "Pressure",
+      "currentSetting": {
+        "symbol": "kPa",
+        "description": "KiloPascal"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "kPa",
+          "description": "KiloPascal"
+        },
+        {
+          "symbol": "psi",
+          "description": "psi"
+        },
+        {
+          "symbol": "bar",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "title": "AtmosphericPressure",
+
+      "currentSetting": {
+        "symbol": "kPa",
+        "description": "KiloPascal"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "kPa",
+          "description": "KiloPascal"
+        },
+        {
+          "symbol": "psi",
+          "description": "psi"
+        },
+        {
+          "symbol": "bar",
+          "description": "Bar"
+        }
+      ]
+    },
+    {
+      "title": "Speed",
+      "currentSetting": {
+        "symbol": "m/s",
+        "description": "Meter per second"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "m/s",
+          "description": "Meters per second"
+        },
+        {
+          "symbol": "km/h",
+          "description": "Kilometers per hour"
+        },
+        {
+          "symbol": "kts",
+          "description": "Knots"
+        },
+        {
+          "symbol": "mph",
+          "description": "Miles per hour"
+        }
+      ]
+    },
+
+    {
+      "title": "Temperature",
+      "currentSetting": {
+        "symbol": "C",
+        "description": "Celcius"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "C",
+          "description": "Celcius"
+        },
+        {
+          "symbol": "F",
+          "description": "Fahrenheit"
+        }
+      ]
+    },
+
+    {
+      "title": "Volume",
+      "currentSetting": {
+        "symbol": "cu m",
+        "description": "Cubic meters"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "cu m",
+          "description": "Cubic meters"
+        },
+        {
+          "symbol": "gal",
+          "description": "Gallon"
+        },
+        {
+          "symbol": "imp gal",
+          "description": "Imperial Gallons"
+        }
+      ]
+    },
+
+    {
+      "title": "VolumeRate",
+      "currentSetting": {
+        "symbol": "cu-m/s",
+        "description": "Cubic meters per second"
+      },
+      "possibleChoices": [
+        {
+          "symbol": "cu-m/s",
+          "description": "Cubic meters per second"
+        },
+        {
+          "symbol": "gal/s",
+          "description": "Gallon per second"
+        },
+        {
+          "symbol": "imp-gal/s",
+          "description": "Imperial Gallons per second"
+        }
+      ]
+    },
+
+
+   {
+      "title": "ScreenSaver",
+      "currentSetting": {
+        "description": "minutes",
+        "symbol": "15"
+      },
+      "possibleChoices": [
+        {
+          "description": "Off",
+          "symbol": "0"
+        },
+        {
+          "description": "minute",
+          "symbol": "1"
+        },
+        {
+          "description": "minutes",
+          "symbol": "3"
+        },
+
+        {
+          "description": "minutes",
+          "symbol": "5"
+        },
+        {
+          "description": "minutes",
+          "symbol": "10"
+        },
+        {
+          "description": "minutes",
+          "symbol": "15"
+        },
+        {
+          "description": "minutes",
+          "symbol": "30"
+        },
+        {
+          "description": "minutes",
+          "symbol": "60"
+        }
+      ]
+
+    }
+  ]
+}
