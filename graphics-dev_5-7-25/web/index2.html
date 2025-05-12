@@ -26,103 +26,131 @@
     </script>
     <title>TruckHouse Digital Switching</title>
   </head>
-  <body style="background-color: #171717; padding: 20px">
-    <h2>Truck House Controls</h2>
-
-    <div style="margin-top: 30px">
-      <h4>Lighting</h4>
-      <div style="display: flex; gap: 20px; margin-top: 15px">
-        <!-- Example small button - replace channel/signal IDs with your actual values -->
-        <div
-          class="btn-pill--small btn-pill--small--inactive"
-          data-channel-id="17"
-        >
-          <span>Toggle Light</span>
-        </div>
-
-        <div
-          class="btn-pill--small btn-pill--small--inactive"
-          data-channel-id="2"
-          data-signal-id="122"
-        >
-          <span>Kitchen</span>
-        </div>
-
-        <div
-          class="btn-pill--small btn-pill--small--inactive"
-          data-channel-id="3"
-          data-signal-id="2"
-        >
-          <span>Reading</span>
-        </div>
-      </div>
+  <body></body>>
+    <div class="header">
+      <img
+        src="./images/header-logo.png"
+        alt="Truck House Logo"
+        class="header-logo"
+      />
     </div>
 
-    <div style="margin-top: 30px">
-      <h4>Climate</h4>
-      <div style="display: flex; gap: 20px; margin-top: 15px">
-        <div
-          class="btn-pill--medium btn-pill--medium--inactive"
-          data-channel-id="4"
-          data-signal-id="3"
-        >
-          <span>A/C</span>
-        </div>
-
-        <div
-          class="btn-pill--medium btn-pill--medium--inactive"
-          data-channel-id="5"
-          data-signal-id="4"
-        >
-          <span>Heat</span>
-        </div>
-      </div>
-    </div>
-
-    <div style="margin-top: 30px">
-      <h4>Power</h4>
-      <div style="display: flex; gap: 20px; margin-top: 15px">
-        <div
-          class="btn-round btn-round--inactive"
-          data-channel-id="6"
-          data-signal-id="5"
-        >
-          <span>Main</span>
-        </div>
-
-        <div
-          class="btn-round btn-round--inactive"
-          data-channel-id="7"
-          data-signal-id="6"
-        >
-          <span>Aux</span>
+    <div class="content">
+      <div id="home-tab" class="tab-content">
+        <div class="home-content">
+          <div class="home-inner">
+            <div class="home-column-1">
+              <div class="large-signal-display" id="state-of-charge">
+                <h1 class="signal-value">87</h1>
+                <h4 class="signal-label">State of Charge</h4>
+              </div>
+            </div>
+            <div class="home-column-2">
+              <h2>Solar</h2>
+              <p>Power: 200W</p>
+              <p>Voltage: 18.5V</p>
+            </div>
+            <div class="home-column-3">
+              <h2>Inverter</h2>
+              <p>Status: On</p>
+              <p>Output Voltage: 120V</p>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
 
-    <div style="margin-top: 30px">
-      <h4>Water</h4>
-      <div style="display: flex; gap: 20px; margin-top: 15px">
-        <div
-          class="btn-pill--long btn-pill--long--inactive"
-          data-channel-id="8"
-          data-signal-id="7"
-        >
-          <span>Pump</span>
+      <div id="light-tab" class="tab-content" style="display: none">
+        <h1>Lighting</h1>
+      </div>
+
+      <div id="power-tab" class="tab-content" style="display: none">
+        <h1>Power</h1>
+      </div>
+
+      <div id="climate-tab" class="tab-content" style="display: none">
+        <h1>Climate</h1>
+      </div>
+
+      <div id="water-tab" class="tab-content" style="display: none">
+        <h1>Water</h1>
+      </div>
+
+      <div id="other-tab" class="tab-content" style="display: none">
+        <h1>Other</h1>
+      </div>
+    </div>
+    <!-- /.content -->
+
+    <footer>
+      <div class="signal-display signal-display-left">
+        <h3 class="signal-value">87</h3>
+        <span class="signal-label">Outside</span>
+      </div>
+
+      <div class="footer-inner">
+        <div class="tab-navigation">
+          <button class="tab-button active" data-tab="home">
+            <span class="tab-icon">
+              <img src="./images/icons/home.svg" alt="Home" class="svg-icon" />
+            </span>
+          </button>
+
+          <button class="tab-button" data-tab="light">
+            <span class="tab-icon">
+              <img
+                src="./images/icons/light.svg"
+                alt="Light"
+                class="svg-icon"
+              />
+            </span>
+          </button>
+
+          <button class="tab-button" data-tab="power">
+            <span class="tab-icon">
+              <img
+                src="./images/icons/power.svg"
+                alt="Power"
+                class="svg-icon"
+              />
+            </span>
+          </button>
+
+          <button class="tab-button" data-tab="climate">
+            <span class="tab-icon">
+              <img
+                src="./images/icons/climate.svg"
+                alt="Climate"
+                class="svg-icon"
+              />
+            </span>
+          </button>
+
+          <button class="tab-button" data-tab="water">
+            <span class="tab-icon">
+              <img
+                src="./images/icons/water.svg"
+                alt="Water"
+                class="svg-icon"
+              />
+            </span>
+          </button>
+
+          <button class="tab-button" data-tab="other">
+            <span class="tab-icon">
+              <img
+                src="./images/icons/other.svg"
+                alt="Other"
+                class="svg-icon"
+              />
+            </span>
+          </button>
         </div>
       </div>
-    </div>
 
-    <div style="margin-top: 30px">
-      <h4>Momentary Controls</h4>
-      <div style="display: flex; gap: 20px; margin-top: 15px">
-        <button class="pulse-btn" data-channel-id="8" data-signal-id="8">
-          Pulse Button (CH 8)
-        </button>
-        <button class="pulse-btn" data-channel-id="17" data-signal-id="17">
-          Horn
-        </button>
+      <div class="signal-display signal-display-right">
+        <h3 class="signal-value">72</h3>
+        <span class="signal-label">Inside</span>
       </div>
-    </div>
+    </footer>
   </body>
 </html>
